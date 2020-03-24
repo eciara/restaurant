@@ -321,7 +321,8 @@ a.nav-link,
     border: 1px solid #fff; }
   .navbar {
     padding: 8px 0 0;
-    background-color: rgba(10, 10, 10, 0.95); }
+    background-color: rgba(10, 10, 10, 0.95); 
+   overflow-x: hidden;}
   .navbar-brand {
     padding-left: 16px; }
   button.navbar-toggler {
